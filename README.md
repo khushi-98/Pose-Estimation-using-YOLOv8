@@ -25,4 +25,4 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pose-estimation-yolov8.git
+   git clone https://github.com/khushi-98/Pose-Estimation-using-YOLOv8.git
